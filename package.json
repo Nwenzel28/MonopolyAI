@@ -1,0 +1,14 @@
+{
+  "name": "monopoly-ai",
+  "version": "1.0.0",
+  "description": "Monopoly AI Training System using NEAT algorithm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": ["monopoly", "ai", "neat", "neural-network"],
+  "author": "",
+  "license": "MIT"
+}
